@@ -23,7 +23,6 @@ function App() {
           </a>
         </p>
 
-        {/* <Viewer /> */}
         <Viewer json={json} />
       </header>
     </div>
