@@ -50,7 +50,7 @@ export const json = {
                 lockOwner: null,
                 versions: [],
                 dataPath: null,
-                value: "Введите имя проекта решения"
+                value: "name"
               },
               editable: {
                 id: "af70d30c-b05c-41d3-820d-d4c1ba1f7316",
@@ -205,7 +205,7 @@ export const json = {
                         versions: [
                           {
                             id: "5e567a780c5154000631c507",
-                            author: "Автоматическое создание",
+                            author: "name",
                             name: "v. 1",
                             created: "2020-02-26T17:02:32.076"
                           },
@@ -1913,7 +1913,7 @@ export const json = {
                           }
                         }
                       },
-                      typeDescription: "Базовый тип сублимита",
+                      description: "test data",
                       type: "BaseBlockValue"
                     },
                     parentId: null
@@ -2022,7 +2022,7 @@ export const json = {
                                 lockOwner: null,
                                 versions: [],
                                 dataPath: null,
-                                value: "Кредитные operation"
+                                value: "soperation"
                               },
                               number: {
                                 id: "33270262-202e-45a1-9b63-ae3eca865ca9",
@@ -5066,7 +5066,7 @@ export const json = {
                                 lockOwner: null,
                                 versions: [],
                                 dataPath: null,
-                                value: "Документарные operation"
+                                value: "operation"
                               },
                               number: {
                                 id: "5df807bb-58a3-4307-8ae7-c540d582714c",
@@ -7406,7 +7406,7 @@ export const json = {
                                 lockOwner: null,
                                 versions: [],
                                 dataPath: null,
-                                value: "Торговые operation"
+                                value: "operation"
                               },
                               number: {
                                 id: "7643a866-a6f9-4420-b57b-f1e9f5a5c5d2",
