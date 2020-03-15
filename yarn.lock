@@ -7035,8 +7035,10 @@ left-pad@^1.3.0:
   resolved "https://registry.yarnpkg.com/left-pad/-/left-pad-1.3.0.tgz#5b8a3a7765dfe001261dde915589e782f8c94d1e"
   integrity sha512-XI5MPzVNApjAyhQzphX8BkmKsKUxD4LdyK24iZeQGinBN9yTQT3bFlCBy/aVx2HrNcqQGsdot8ghrjyrvMCoEA==
 
-"lego-react-json-view@file:../lego-react-json-view":
-  version "0.0.1"
+lego-react-json-view@*:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/lego-react-json-view/-/lego-react-json-view-0.0.5.tgz#1e57568cdae4bd99b5a52b682de10ed2b97765ad"
+  integrity sha512-DyL7tHgYacScZ1hKvkmMKPRhCKCycWuh7XV6j6u54+RlMnhoGCqpv7udnhLlAn3wCEC6kUD28+amLMdJtJ3mfQ==
   dependencies:
     "@types/react" "^16.9.23"
     "@types/react-dom" "^16.9.5"
